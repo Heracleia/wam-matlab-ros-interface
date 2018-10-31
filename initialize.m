@@ -1,0 +1,3 @@
+%% Initialize ROS
+
+rosinit
